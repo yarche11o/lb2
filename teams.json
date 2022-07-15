@@ -1,0 +1,45 @@
+[{
+  "title": "Real Madrid",
+  "coach": "Carlos Ancelotti",
+  "players": ["Vinícius Junior", "Toni Kroos", "Karim Benzema"]
+},
+{
+  "title": "Atletico Madrid",
+  "coach": "Diego Simeone",
+  "players": ["Luis Suarez", "Jan Oblak", "Antoine Griezmann", "Joao Felix"]
+},
+{
+  "title": "PSG",
+  "coach": "Mauricio Pochettino",
+  "players": ["Lionel Messi", "Neymar Junior", "Kylian Mbappe"]
+},
+{
+  "title": "Monaco",
+  "coach": "Philippe Clement",
+  "players": ["Djibril Sidibe", "Vanderson de Oliveira Campos"]
+},
+{
+  "title": "Milan",
+  "coach": "stefano pioli",
+  "players": ["Zlatan Ibrahimovic", "Olivier Giroud", "Alessio Romagnoli"]
+},
+{
+  "title": "Juventus",
+  "coach": "Massimiliano Allegri",
+  "players": ["Aaron Ramsey", "Paulo Dybala", "Leonardo Bonucci", "Federico Chiesa", "Adrien Rabiot"]
+},
+{
+  "title": "Inter",
+  "coach": "Simone Inzaghi",
+  "players": ["Arturo Vidal", "Alexis Sanchez"]
+},
+{
+  "title": "Bayern Munich",
+  "coach": "Julian Nagelsmann",
+  "players": ["Robert Lewandowski", "Sadio Mane", "Thomas Muller"]
+},
+{
+  "title": "Borussia Dortmund",
+  "coach": "Edin Terzic",
+  "players": ["Thorgan Hazard", "Erling Braut Haaland", "Donyell Malen"]
+}]
